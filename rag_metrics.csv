@@ -1,0 +1,4 @@
+timestamp,question,retrieved_docs,unique_sources,response_characters,sources
+2025-11-21T15:40:21.240157,Que articulo establece que colombia es un estado social de derecho,20,1,495,markdowns/constitucion.txt
+2025-11-21T15:40:50.875975,que dije anteriormente?,20,1,575,markdowns/constitucion.txt
+2025-11-21T15:41:37.866593,que fue lo que te pregunte anteriormente,20,1,1203,markdowns/constitucion.txt

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "¿Qué dice el artículo 1 de la Constitución?",
+    "generated_answer": "Lo siento, pero no hay un artículo 1 en el texto proporcionado. Es posible que el texto esté incompleto o que el artículo 1 sea una sección diferente. Sin embargo, te puedo ayudar a encontrar la información que estás buscando.\n\nSi estás buscando información sobre el artículo 1, te recomiendo revisar el artículo 2, que es el primero en el texto proporcionado. Está disponible en la siguiente URL: [http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#2](http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#2)\n\nEl artículo 2 establece los fines esenciales del estado, que son:\n\n\"servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y cultural de la nación; defender la independencia nacional, mantener la integridad territorial y asegurar la convivencia pacífica y la vigencia de un orden justo.\"\n\nEspero que esta información te sea útil. Si tienes alguna otra pregunta, no dudes en preguntar.",
+    "ground_truth_answer": "Colombia es un Estado social de derecho, organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista, fundada en el respeto de la dignidad humana, en el trabajo y la solidaridad de las personas que la integran y en la prevalencia del interés general.",
+    "num_retrieved_docs": 20,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "answer_similarity": 0.4783187508583069,
+    "mrr": 0.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Cuáles son los fines esenciales del Estado colombiano?",
+    "generated_answer": "Según el artículo 2 de la Constitución Política de Colombia, los fines esenciales del Estado colombiano son:\n\n1. Servir a la comunidad (Artículo 2.1)\n2. Promover la prosperidad general (Artículo 2.2)\n3. Garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución (Artículo 2.3)\n4. Facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y cultural de la nación (Artículo 2.4)\n5. Defender la independencia nacional (Artículo 2.5)\n6. Mantener la integridad territorial (Artículo 2.6)\n7. Asegurar la convivencia pacífica (Artículo 2.7)\n8. Vigencia de un orden justo (Artículo 2.8)\n\nEstos fines esenciales del Estado colombiano se encuentran consagrados en el artículo 2 de la Constitución Política de Colombia, que establece:\n\n\"Artículo 2. Son fines esenciales del Estado: servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y cultural de la nación; defender la independencia nacional, mantener la integridad territorial y asegurar la convivencia pacífica y la vigencia de un orden justo. Las autoridades de la República están instituidas para proteger a todas las personas residentes en Colombia, en su vida, honra, bienes, creencias, y demás derechos y libertades, y para asegurar el cumplimiento de los deberes sociales del Estado y de los particulares.\"\n\nURL: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#2",
+    "ground_truth_answer": "Servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y cultural de la Nación; defender la independencia nacional, mantener la integridad territorial y asegurar la convivencia pacífica y la vigencia de un orden justo.",
+    "num_retrieved_docs": 20,
+    "precision": 0.05,
+    "recall": 1.0,
+    "f1_score": 0.09523809523809523,
+    "answer_similarity": 0.6825156211853027,
+    "mrr": 0.3333333333333333,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Dónde reside la soberanía según la Constitución?",
+    "generated_answer": "Según la Constitución Política de Colombia, la soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos que la constitución establece.\n\nArtículo 3. La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos que la constitución establece. [http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#3](http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#3)\n\nAdemás, se establecen mecanismos de participación del pueblo en ejercicio de su soberanía, como el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato.\n\nArtículo 103. Son mecanismos de participación del pueblo en ejercicio de su soberanía: el voto, el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa legislativa y la revocatoria del mandato. La ley los reglamentará. [http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#103](http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#103)",
+    "ground_truth_answer": "La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos que la Constitución establece.",
+    "num_retrieved_docs": 20,
+    "precision": 0.2,
+    "recall": 1.0,
+    "f1_score": 0.33333333333333337,
+    "answer_similarity": 0.7128909826278687,
+    "mrr": 1.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué significa que la Constitución es norma de normas?",
+    "generated_answer": "La Constitución es norma de normas, lo que significa que tiene jerarquía superior a cualquier otra norma jurídica en el país. Esto se establece en el artículo 4 de la Constitución Política de 1991, que dice:\n\n\"La Constitución es norma de normas. En todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales. Es deber de los nacionales y de los extranjeros en Colombia acatar la Constitución y las leyes, y respetar y obedecer a las autoridades.\" (URL: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#5)\n\nEn otras palabras, cuando haya un conflicto entre la Constitución y cualquier otra norma jurídica, la Constitución prevalecerá y se aplicará. Esto significa que la Constitución es la norma fundamental que rige el país y que todas las otras normas deben ajustarse a ella.\n\nEste principio es fundamental para garantizar la estabilidad y la seguridad jurídica en el país, ya que establece un marco claro y jerárquico para la creación y aplicación de las normas jurídicas.",
+    "ground_truth_answer": "Significa que en todo caso de incompatibilidad entre la Constitución y la ley u otra norma jurídica, se aplicarán las disposiciones constitucionales. Es deber de los nacionales y de los extranjeros en Colombia acatar la Constitución y las leyes, y respetar y obedecer a las autoridades.",
+    "num_retrieved_docs": 20,
+    "precision": 0.15,
+    "recall": 1.0,
+    "f1_score": 0.2608695652173913,
+    "answer_similarity": 0.8807369470596313,
+    "mrr": 1.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué establece el artículo 11 sobre el derecho a la vida?",
+    "generated_answer": "El artículo 11 de la Constitución Política de Colombia establece:\n\n\"El derecho a la vida es inviolable. No habrá pena de muerte.\"\n\nURL: [http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html#11]",
+    "ground_truth_answer": "El derecho a la vida es inviolable. No habrá pena de muerte.",
+    "num_retrieved_docs": 20,
+    "precision": 0.1,
+    "recall": 1.0,
+    "f1_score": 0.18181818181818182,
+    "answer_similarity": 0.741209864616394,
+    "mrr": 0.3333333333333333,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué dice la Constitución sobre la igualdad ante la ley?",
+    "generated_answer": "La Constitución colombiana establece la igualdad ante la ley en el artículo 13, que dice:\n\n\"Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. El Estado promoverá las condiciones para que la igualdad sea real y efectiva y adoptará medidas en favor de grupos discriminados o marginados. El Estado protegerá especialmente a aquellas personas que por su condición económica, física o mental, se encuentren en circunstancia de debilidad manifiesta y sancionará los abusos o maltratos que contra ellas se cometan.\"\n\n(http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#13)",
+    "ground_truth_answer": "Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica. El Estado promoverá las condiciones para que la igualdad sea real y efectiva y adoptará medidas en favor de grupos discriminados o marginados.",
+    "num_retrieved_docs": 20,
+    "precision": 0.2,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.30769230769230765,
+    "answer_similarity": 0.8419920802116394,
+    "mrr": 1.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué derechos protege el artículo 15?",
+    "generated_answer": "El artículo 15 de la Constitución establece los derechos de las personas en relación con su intimidad personal y familiar, su buen nombre, y la protección de sus datos personales.\n\nEl texto completo del artículo 15 es:\n\n\"Artículo 15. Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución. La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley. Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley.\"\n\nURL: [http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html#15]",
+    "ground_truth_answer": "Todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre. También tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. La correspondencia y demás formas de comunicación privada son inviolables y sólo pueden ser interceptadas o registradas mediante orden judicial.",
+    "num_retrieved_docs": 20,
+    "precision": 0.05,
+    "recall": 0.75,
+    "f1_score": 0.09375000000000001,
+    "answer_similarity": 0.754375696182251,
+    "mrr": 0.5,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué garantiza el artículo 20 sobre la libertad de expresión?",
+    "generated_answer": "El artículo 20 garantiza la libertad de expresar y difundir su pensamiento y opiniones, la de informar y recibir información veraz e imparcial, y la de fundar medios masivos de comunicación. Estos son libres y tienen responsabilidad social. Se garantiza el derecho a la rectificación en condiciones de equidad. No habrá censura.\n\nFuente: Artículo 20 de la Constitución Política de Colombia (http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html#20)",
+    "ground_truth_answer": "Se garantiza a toda persona la libertad de expresar y difundir su pensamiento y opiniones, la de informar y recibir información veraz e imparcial, y la de fundar medios masivos de comunicación. Estos son libres y tienen responsabilidad social. Se garantiza el derecho a la rectificación en condiciones de equidad. No habrá censura.",
+    "num_retrieved_docs": 20,
+    "precision": 0.15,
+    "recall": 0.75,
+    "f1_score": 0.24999999999999997,
+    "answer_similarity": 0.8036383390426636,
+    "mrr": 1.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué es el derecho de petición según el artículo 23?",
+    "generated_answer": "El derecho de petición es un derecho que se encuentra establecido en el artículo 23 de la Constitución Política de Colombia, el cual establece lo siguiente:\n\n\"toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.\"\n\nEn este sentido, el derecho de petición es un derecho fundamental que permite a cualquier persona presentar peticiones respetuosas a las autoridades por motivos de interés general o particular, y esperar una respuesta pronta.",
+    "ground_truth_answer": "Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades por motivos de interés general o particular y a obtener pronta resolución. El legislador podrá reglamentar su ejercicio ante organizaciones privadas para garantizar los derechos fundamentales.",
+    "num_retrieved_docs": 20,
+    "precision": 0.1,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.1739130434782609,
+    "answer_similarity": 0.80035001039505,
+    "mrr": 1.0,
+    "sources_correct": true
+  },
+  {
+    "question": "¿Qué garantiza el debido proceso según el artículo 29?",
+    "generated_answer": "Según el artículo 29 de la Constitución, el debido proceso se garantiza de la siguiente manera:\n\n\"toda persona se presume inocente mientras no se la haya declarado judicialmente culpable. quien sea sindicado tiene derecho a la defensa y a la asistencia de un abogado escogido por él, o de oficio, durante la investigación y el juzgamiento; a un debido proceso público sin dilaciones injustificadas; a presentar pruebas y a controvertir las que se alleguen en su contra; a impugnar la sentencia condenatoria, y a no ser juzgado dos veces por el mismo hecho.\"\n\nEste artículo garantiza que cualquier persona sea tratada de manera justa y equitativa en el proceso judicial, y que tenga acceso a la información y a la representación legal necesaria para defenderse.",
+    "ground_truth_answer": "El debido proceso se aplicará a toda clase de actuaciones judiciales y administrativas. Nadie podrá ser juzgado sino conforme a leyes preexistentes al acto que se le imputa, ante juez o tribunal competente y con observancia de la plenitud de las formas propias de cada juicio. Toda persona se presume inocente mientras no se la haya declarado judicialmente culpable. Es nula, de pleno derecho, la prueba obtenida con violación del debido proceso.",
+    "num_retrieved_docs": 20,
+    "precision": 0.1,
+    "recall": 0.75,
+    "f1_score": 0.17647058823529416,
+    "answer_similarity": 0.7407955527305603,
+    "mrr": 1.0,
+    "sources_correct": true
+  }
+]
